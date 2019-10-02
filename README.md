@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages 
+  [try1](try.html)
 
 You can use the [editor on GitHub](https://github.com/omar7100/Good/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
